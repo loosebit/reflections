@@ -1,1 +1,2 @@
 Reflections go here
+When using git, set up your keys
